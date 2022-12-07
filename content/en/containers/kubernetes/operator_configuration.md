@@ -255,7 +255,7 @@ spec:
 : Enable this to activate live process monitoring. Note: `/etc/passwd` is automatically mounted to allow username resolution. [See the Process documentation][12].
 
 `agent.process.env`
-: The Datadog Agent supports many [environment variables][3].
+: The Datadog Agent supports many [environment variables][2].
 
 `agent.process.resources.limits`
 : Describes the maximum amount of compute resources allowed. See the [Kubernetes documentation][3].
